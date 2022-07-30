@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/countodwn-clock/static/css/main.1d3f4dce.css",
+    "main.js": "/countodwn-clock/static/js/main.38ce0195.js",
+    "index.html": "/countodwn-clock/index.html",
+    "main.1d3f4dce.css.map": "/countodwn-clock/static/css/main.1d3f4dce.css.map",
+    "main.38ce0195.js.map": "/countodwn-clock/static/js/main.38ce0195.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d3f4dce.css",
+    "static/js/main.38ce0195.js"
+  ]
+}
