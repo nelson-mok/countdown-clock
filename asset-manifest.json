@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/countodwn-clock/static/css/main.1d3f4dce.css",
-    "main.js": "/countodwn-clock/static/js/main.38ce0195.js",
-    "index.html": "/countodwn-clock/index.html",
-    "main.1d3f4dce.css.map": "/countodwn-clock/static/css/main.1d3f4dce.css.map",
-    "main.38ce0195.js.map": "/countodwn-clock/static/js/main.38ce0195.js.map"
+    "main.css": "/countdown-clock/static/css/main.1d3f4dce.css",
+    "main.js": "/countdown-clock/static/js/main.38ce0195.js",
+    "index.html": "/countdown-clock/index.html",
+    "main.1d3f4dce.css.map": "/countdown-clock/static/css/main.1d3f4dce.css.map",
+    "main.38ce0195.js.map": "/countdown-clock/static/js/main.38ce0195.js.map"
   },
   "entrypoints": [
     "static/css/main.1d3f4dce.css",
