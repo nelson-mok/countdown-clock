@@ -1,7 +1,7 @@
 {
   "name": "countdown_clock",
   "version": "0.1.0",
-  "homepage": "https://nelson-mok.github.io/countodwn-clock",
+  "homepage": "https://nelson-mok.github.io/countdown-clock",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
